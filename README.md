@@ -1,3 +1,5 @@
+Assignment for Programming Methodology course:
+
 ### Hardware Description Language interpreter written in Prolog
 
 konrad_werblinski.pl - parser
